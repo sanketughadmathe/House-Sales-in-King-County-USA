@@ -12,3 +12,6 @@ It's a great dataset for evaluating simple regression models.
 Predicted Attribute: Different Species of Iris plant.
 ## Purpose
 The purpose of this project was to gain introductory exposure to Machine Learning Regression concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas, Data Visualization Libraries and Tensor Flow 2.0
+
+## Scatter Plot
+![Scatter Plot](https://github.com/sanketughadmathe/House-Sales-in-King-County-USA/blob/master/images/Scatterplot_on_map.jpg)
