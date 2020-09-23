@@ -1,7 +1,6 @@
 # House Sales in King County, USA [(Kaggle)](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
 ![Python](https://img.shields.io/badge/python-3.8.x-success) ![TensorFlow](https://img.shields.io/badge/Tensor_Flow-2.x.x-success) ![Build Status](https://img.shields.io/badge/Keras-ANN-success) ![Build Status](https://img.shields.io/badge/Machine-Learning-red) ![Type](https://img.shields.io/badge/Type-Supervised-yellow) ![Status](https://img.shields.io/badge/Status-Completed-success)
-Keras
 
 ## Introduction
 Kaggle House Sales in King County prediction using regression [(Link)](https://www.kaggle.com/harlfoxem/housesalesprediction)
