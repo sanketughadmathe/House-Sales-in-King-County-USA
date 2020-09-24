@@ -15,3 +15,6 @@ The purpose of this project was to gain introductory exposure to Machine Learnin
 
 ## Scatter Plot
 ![Scatter Plot](https://github.com/sanketughadmathe/House-Sales-in-King-County-USA/blob/master/images/Scatterplot_on_map.jpg)
+
+## Losses Plot
+![Scatter Plot](https://github.com/sanketughadmathe/House-Sales-in-King-County-USA/blob/master/images/Losses.jpg)
