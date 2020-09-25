@@ -7,9 +7,7 @@ Kaggle House Sales in King County prediction using regression [(Link)](https://w
 
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
-It's a great dataset for evaluating simple regression models.
-
-Predicted Attribute: Different Species of Iris plant.
+Predicted Attribute: Price of the houses.
 ## Purpose
 The purpose of this project was to gain introductory exposure to Machine Learning Regression concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas, Data Visualization Libraries and Tensor Flow 2.0
 
